@@ -1,0 +1,8 @@
+[
+  {
+    "queryName": "query01",
+    "language": "en",
+    "pageSize": 10,
+    "q": "news"
+  }
+]
